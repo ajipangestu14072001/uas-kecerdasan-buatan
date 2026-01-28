@@ -28,7 +28,7 @@ Sistem ini adalah implementasi Retrieval-Augmented Generation (RAG) yang diranca
 5. Aktifkan Local Server pada port 1234.
 
 # Clone repository
-git clone https://github.com/username/rag-akademik-pdf.git
+[git clone https://github.com/username/rag-akademik-pdf.git](https://github.com/ajipangestu14072001/uas-kecerdasan-buatan)
 
 # Install dependencies
 pip install langchain langchain-community langchain-huggingface chromadb pypdf requests
